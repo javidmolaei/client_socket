@@ -1,12 +1,10 @@
-package com.example.uploading.file;
+package com.example.uploading;
 
 /**
  * @author Javid Molaei
  */
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
-import org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.*;

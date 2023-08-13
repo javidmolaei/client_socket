@@ -1,4 +1,4 @@
-package com.example.uploading.file;
+package com.example.uploading;
 
 /**
  * @author Javid Molaei
